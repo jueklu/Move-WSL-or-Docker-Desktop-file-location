@@ -8,7 +8,7 @@
 <br><br>
 
 
-#### Find your WSL distribution, e.g. Ubuntu 22: <br>
+#### Find your WSL distribution, e.g. Ubuntu 22 <br>
 
 ![grafik](https://user-images.githubusercontent.com/100385444/194547507-7a8a04d6-0095-4d82-88eb-df213c796d6a.png)
 
